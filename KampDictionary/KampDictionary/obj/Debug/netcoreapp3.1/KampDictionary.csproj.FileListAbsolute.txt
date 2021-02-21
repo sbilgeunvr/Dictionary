@@ -1,0 +1,13 @@
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\obj\Debug\netcoreapp3.1\KampDictionary.csprojAssemblyReference.cache
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\obj\Debug\netcoreapp3.1\KampDictionary.AssemblyInfoInputs.cache
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\obj\Debug\netcoreapp3.1\KampDictionary.AssemblyInfo.cs
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\obj\Debug\netcoreapp3.1\KampDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\bin\Debug\netcoreapp3.1\KampDictionary.exe
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\bin\Debug\netcoreapp3.1\KampDictionary.deps.json
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\bin\Debug\netcoreapp3.1\KampDictionary.runtimeconfig.json
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\bin\Debug\netcoreapp3.1\KampDictionary.runtimeconfig.dev.json
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\bin\Debug\netcoreapp3.1\KampDictionary.dll
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\bin\Debug\netcoreapp3.1\KampDictionary.pdb
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\obj\Debug\netcoreapp3.1\KampDictionary.dll
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\obj\Debug\netcoreapp3.1\KampDictionary.pdb
+C:\Users\Seyda\source\repos\KampDictionary\KampDictionary\obj\Debug\netcoreapp3.1\KampDictionary.genruntimeconfig.cache
